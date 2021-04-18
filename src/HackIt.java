@@ -16,6 +16,6 @@ public class HackIt extends Secret{
 //        Secret secret = new Secret();
 //        secret.getSecret();
         HackIt secret = new HackIt();
-        Arrays
+
     }
 }
