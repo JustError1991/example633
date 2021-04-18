@@ -4,6 +4,6 @@ public class Secret {
     protected void getSecret(){
         //... функция выводит секрет фирмы
         //...
-        System.out.println("секркт 3");
+        System.out.println("секркт");
     }
 }
